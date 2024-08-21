@@ -52,11 +52,11 @@ SupplierAPI is a Spring Boot application designed to manage supplier information
    - The application will run on `http://localhost:8080`.
   
 ## API Endpoints
-- GET /api/supplier/query: Retrieve all suppliers.
-- GET /api/supplier/query/{id}: Retrieve a specific supplier by ID.
-- POST /api/supplier/query: Create a new supplier.
-- PUT /api/supplier/query/{id}: Update an existing supplier by ID.
-- DELETE /api/supplier/query/{id}: Delete a supplier by ID.
+- GET `/api/supplier/query`: Retrieve all suppliers.
+- GET `/api/supplier/query/{id}`: Retrieve a specific supplier by ID.
+- POST `/api/supplier/query`: Create a new supplier.
+- PUT `/api/supplier/query/{id}`: Update an existing supplier by ID.
+- DELETE `/api/supplier/query/{id}`: Delete a supplier by ID.
 
 ## Usage
 
